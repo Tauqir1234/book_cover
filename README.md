@@ -29,6 +29,7 @@ Insert the images in their appropriate places.
 Publish the website in the LocalHost.
 
 # PROGRAM:
+~~~
 <!DOCTYPE html>
 <html>
     <head>
@@ -96,7 +97,8 @@ Publish the website in the LocalHost.
                 </div>
          </div>
     </body>
-</html>    
+</html>
+~~~
 
 # OUTPUT:
 ![Screenshot 2024-11-23 104818](https://github.com/user-attachments/assets/027b7be8-86b4-41dc-99d3-932eb4e1fbc9)
